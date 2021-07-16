@@ -1,2 +1,2 @@
-# 202020_csci481_project_fluke_net
-CSCI 481/597J Spring 2020 Course Project Repository (fluke_net)
+# Fluke-Net
+Public version of the Fluke-Net project created for Brian Hutchinson's "Deep Learning" class in Spring 2020.
